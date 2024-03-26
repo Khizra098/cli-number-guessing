@@ -1,6 +1,6 @@
 {
-  "name": "khiz9-cli-number-guessing",
-  "version": "2.0.2",
+  "name": "khizz9-cli-number-guessing",
+  "version": "1.0.1",
   "desciption": "This is cli based numbers guessing game",
   "main": "index.js",
   "type": "module",

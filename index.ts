@@ -23,4 +23,3 @@ if(answers.userGuessedNumber === randomNumber){
 }else {
     console.log("You guessed wrong number");
 }
-console.log(answers);
